@@ -1,0 +1,28 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+button
+{
+  padding-top: 100px;
+}
+button:hover
+{
+ color:white;
+ background-color: #480f92;
+}
+body{
+  background-color: #000;
+}
+.carousel{
+  margin-top: 50px;
+}
+.carousel-inner{
+  height: 300px;
+}
+.carousel-caption{
+  color: #8d0808;
+  top: 50%;
+}
+
